@@ -14,10 +14,10 @@ const __dirname = path.resolve();
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.GUILD_VOICE_STATES, Intents.FLAGS.GUILD_MESSAGE_TYPING] });
 
-const TextChannelIDs = ['765778651043332110'];
-const VoiceChannelID = '765778651043332111';
-const ServerID = '765778651043332107';
-const TrustedRoles = ['889769455171797032'];
+const TextChannelIDs = ['874108308489908244'];
+const VoiceChannelID = '874110429155192873';
+const ServerID = '874089774342873159';
+const TrustedRoles = ['874094274273214555'];
 
 
 const audioPlayer = createAudioPlayer();
