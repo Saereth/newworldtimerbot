@@ -2,7 +2,7 @@ import { config as dotenv } from "dotenv";
 import { readFileSync, createReadStream } from "fs";
 import { join } from 'path';
 
-import { config } from './config.json';
+//import { config } from './config.json';
 
 dotenv();
 
@@ -161,4 +161,5 @@ client.on("messageCreate", message => {
     } 
   });
 
-  client.login(config.token);
+  client.login(process.env.DJS_TOKEN);
+//  client.login(config.token);
