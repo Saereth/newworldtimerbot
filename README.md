@@ -1,4 +1,4 @@
-# newworldtimerbot
+# New World Town Board Timer Bot for Aeternum Eternal's Discord
 New World Town Board Discord Bot Timer
 
 This bot allows you to set the current board timer, check status and give 5 minute warnings as well as reset warnings to any number of text channels.
