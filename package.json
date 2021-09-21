@@ -5,10 +5,10 @@
   "description": "A timer for new world town boards for Discord",
   "main": "main.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node main.js"
   },
   "author": "Saereth",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
     "@discordjs/voice": "^0.6.0",
