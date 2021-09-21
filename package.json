@@ -5,7 +5,7 @@
   "description": "A timer for new world town boards for Discord",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Saereth",
   "license": "ISC",
