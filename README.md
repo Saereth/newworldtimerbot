@@ -6,7 +6,7 @@ This bot is also able to join a voice channel specified in the config and give a
 
 Syntax:
 !newt 
-  - setTimer: Sets the timer, parameter accepted in time as seconds
+  - setTimer: Sets the timer, parameter accepted in time as minutes
   - stopTimer: Stops the timer and all countdown notifications
   - status: displays the current countdown timer
   - help: shows syntax
